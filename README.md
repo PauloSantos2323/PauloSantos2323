@@ -84,12 +84,7 @@ Sempre preferi resolver problemas em vez de reclamar deles. Essa atitude, somada
 
 ### 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantos2323&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantos2323&layout=compact&hide_border=true&theme=transparent&langs_count=6)
 
 </p>
 
