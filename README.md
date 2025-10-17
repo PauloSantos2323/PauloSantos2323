@@ -1,4 +1,4 @@
-#🧑‍💻 Paulo Santos
+#Paulo Santos
 
 **`Desenvolvedor FullStack`**
 
