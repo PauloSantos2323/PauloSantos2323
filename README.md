@@ -1,6 +1,6 @@
 # Paulo Santos
 
-**`Desenvolvedor FullStack`**
+**`Enegenheiro de Software`**
 
 Sempre preferi resolver problemas em vez de reclamar deles. Essa atitude, somada à minha curiosidade por tecnologia desde cedo, me levou ao mundo da programação. Foi dessa curiosidade que nasceu uma paixão por essa área e, com ela, o desejo constante de ir além.
 
